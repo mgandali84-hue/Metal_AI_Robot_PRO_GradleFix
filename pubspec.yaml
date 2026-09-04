@@ -1,0 +1,14 @@
+name: metal_ai_robot_pro
+description: Metal AI Robot PRO Android assistant
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
